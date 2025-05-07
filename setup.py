@@ -18,7 +18,7 @@ setup(
     description="This is a simple package which is used in Bot Spam",
     long_description = readme_contents,
     long_description_content_type="text/markdown",
-    url="https://github.com/badmunda98/pySukhPB",
+    url="https://github.com/ShahinaAbhi143/AbhiXSpamExtra.git",
     packages=find_packages(),
     license="GNU General Public License v3.0",
     include_package_data=True,
